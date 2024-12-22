@@ -11,7 +11,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/karuifeather/expo-app-template.git .my-app
+   git clone https://github.com/karuifeather/expo-app-template.git ./my-app
    ```
 
 2. Remove existing `git` and start a new one
