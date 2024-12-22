@@ -9,13 +9,24 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Clone the repo
+   ```bash
+   git clone https://github.com/karuifeather/expo-app-template.git .my-app
+   ```
+
+2. Remove existing `git` and start a new one
+   ```bash
+   rm -rf .git
+   git init
+   ```
+
+3. Install dependencies
 
    ```bash
    yarn install
    ```
 
-2. Start the app
+4. Start the app
 
    ```bash
    yarn start
